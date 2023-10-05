@@ -1,0 +1,4 @@
+#Thu Oct 05 13:53:20 CDT 2023
+base.0=/Users/emi/Desktop/Anáhuac/Septimo semestre/Programación para dispositivos moviles/TRAEA PDF/ejercicio3/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
